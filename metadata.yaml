@@ -1,0 +1,39 @@
+_repo: The-Christ-Myth_45540
+_version: 0.1.0
+alternative_title: Die Christusmythe. English
+contributor:
+  translator:
+    agent_name: Burns, C. Delisle
+    alias: Burns, Cecil Delisle
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '43342'
+    url: http://www.gutenberg.org/2009/agents/43342
+covers:
+- cover_type: archival
+  image_path: 45540-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Drews, Arthur
+    aliases:
+    - Drews, Arthur Christian Heinrich
+    - Drews, Christian Heinrich Arthur
+    birthdate: 1865
+    deathdate: 1935
+    gutenberg_agent_id: '43341'
+    url: http://www.gutenberg.org/2009/agents/43341
+description: ''
+gutenberg_issued: '2014-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. New Testament -- Criticism, interpretation, etc.'
+- !lcsh 'Jesus Christ -- Historicity'
+- !lcc 'BT'
+title: The Christ Myth
+url: http://www.gutenberg.org/ebooks/45540
